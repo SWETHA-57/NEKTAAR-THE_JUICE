@@ -82,7 +82,7 @@
     <li>Boosts Immunity – Rich in antioxidants.</li>
   </ul>
   <div class="image-gallery">
-    <img src="c:\Users\Gundeboina swethaz\Desktop\image2\nannari.png" alt="Nannari Juice" />
+    <img src="https://Gundeboina swethaz/Desktop/image2/nannari.png" alt="Nannari Juice" />
   </div>
 
   <h2>Lemon + Ginger + Amla</h2>
@@ -95,7 +95,7 @@
     <li>Good for Skin – Keeps skin clear and healthy.</li>
   </ul>
   <div class="image-gallery">
-    <img src="c:\Users\Gundeboina swethaz\Desktop\image\lemon.png" alt="Lemon Ginger Amla Juice" />
+    <img src="https://Gundeboina swethaz/Desktop/image/lemon.png" alt="Lemon Ginger Amla Juice" />
   </div>
 
   <h2>PINEAPPLE Juice</h2>
@@ -107,7 +107,7 @@
     <li>Anti-Inflammatory – Reduces swelling and joint pain.</li>
   </ul>
   <div class="image-gallery">
-    <img src="c:\Users\Gundeboina swethaz\Desktop\image1\pineapple.png" alt="Pineapple Juice" />
+    <img src="https://Gundeboina swethaz/Desktop/image1/pineapple.png" alt="Pineapple Juice" />
   </div>
 
   <h2>Nektaar Vibe</h2>
